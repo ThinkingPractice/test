@@ -1,3 +1,4 @@
+test the exchange way.
 the new branch,it's ok.
 there is something wrong in this file.
 git is the tool of manage the source code of project.
